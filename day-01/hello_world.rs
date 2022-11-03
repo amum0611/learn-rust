@@ -23,5 +23,5 @@ NOTES:
     1 - If your filename has more than one word, then you can use underscore to seperate them.
     2 - `rustup` also installs `cargo`, the Rust build tool and package manager. From day-02 onward, I will use `cargo` instead of `rustc`.
     3 - Rust is ahead-of-time compiled language. Once you compile it, you don't need Rust binaries to execute it. 
-    4 - `println!` calls a Rust macro. If it had called a function instead, then I should have `println` with `!`. (more details on macro later)
+    4 - `println!` calls a Rust macro. If it had called a function instead, then I should have `println` without `!`. (more details on macro later)
 */
